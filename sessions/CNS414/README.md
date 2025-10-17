@@ -1,10 +1,6 @@
-# KUB314 | High-Performance Generative AI on Amazon EKS
-Generative AI models have opened up new possibilities in computing, but deploying them effectively can be challenging. Many are turning to open source tools on Kubernetes for solutions. Join this session to explore how Amazon EKS can address the infrastructure needs of generative AI, including GPU acceleration, scalability, and low-latency responses. Learn practical insights, see case studies of successful implementations, and discover best practices for using Amazon EKS to control costs while optimizing performance. 
+# CNS414 | Scale, optimize, and upgrade your Kubernetes cluster with Karpenter 
+
+Dive deep into Karpenter, the CNCF open-source project that serves as a flexibile, high-performance Kubernetes cluster autoscaler built with AWS. This advanced chalk talk explores Karpenter's scaling algorithms, and sophisticated node provisioning strategies. Learn how to implement complex scheduling constraints, optimize node selection using custom provisioners, and architect automated node upgrade strategies. We will examine use cases including multi-architecture workloads, spot instance handling, and performance tuning. Ideal for experienced Kubernetes operators and platform engineers.
 
 ## Session Resources 
-[YouTube recording](https://youtu.be/25tRVE2xq1I?si=EFBHqBb2wYBYskbb) 
 
-[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB314_High-performance-generative-AI-on-Amazon-EKS.pdf)
-
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

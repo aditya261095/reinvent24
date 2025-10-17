@@ -1,8 +1,6 @@
-# KUB322 | How to Build Resilient Applications on Amazon EKS
-As mission-critical applications increasingly run on Amazon EKS clusters, meeting service level objectives (SLOs) is paramount. This chalk talk delves into strategies and best practices to enhance the resiliency of your workloads, minimize the impact of failures, and ensure high availability and continuity of service delivery. Explore various strategies, including multi-cluster connectivity, disaster recovery, and failover mechanisms. In addition, learn about AWS-managed observability services and how to achieve operational excellence through observability best practices. Attend this talk to gain practical insights to mitigate risks, minimize downtime, and ensure continuous availability of your containerized workloads on Amazon EKS. 
+# CNS317 | Enhance your Amazon EKS development workflow with MCP 
+
+Dive into the power of Model Context Protocol (MCP) to enhance your development workflow on Amazon EKS. In this hands-on session, developers and platform engineers will learn to leverage generative AI capabilities and agent-based tools to streamline common platform tasks, automate workflows, and boost productivity. Experience autonomous agents executing complex operations, intelligent code assistance, and advanced prompt engineering techniques. Gain practical experience in intergrating Amazon Q CLI into your existing Kubernetes development processes, to make platform management more efficient and intuitive.
 
 ## Session Resources 
-[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB322_How-to-build-resilient-applications-on-Amazon-EKS.pdf)
 
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

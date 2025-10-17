@@ -1,5 +1,5 @@
-# KUB309 | Karpenter: Amazon EKS Best Practices and Cloud Cost Optimization
-Get hands-on experience with Karpenter on Amazon EKS. Karpenter is an application-centric node provisioner that simplifies infrastructure management by provisioning rightsized Amazon EC2 instances for your workload while considering any scheduling constraints. As your workload evolves, Karpenter’s consolidation feature helps continuously optimize your compute onto the fewest, most cost-efficient instances. In this workshop, learn how to set up Amazon EKS with Karpenter, gain an understanding of how Karpenter scales based on application requirements, set up continuous optimization of a workload using Karpenter consolidation, explore AWS spare capacity (Amazon EC2 Spot Instances) with Karpenter, and learn other best practices. You must bring your laptop to participate.
+# CNS401 | Amazon EKS: Infrastructure as code, GitOps, or CI/CD 
 
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)
+Explore diverse architectures for deploying workloads on Amazon EKS with Amazon ECR. Learn about secure software supply chain automation options including CI/CD pipelines, Infrastructure as Code (using Terraform and CDK), and GitOps patterns with Argo CD. Understand how these approaches complement each other from developer, architect, and operations perspectives. Get insights on selecting the right deployment strategy based on team structure and skillsets, and discover how to effectively combine DevOps and GitOps patterns to match your organization's needs. Gain practical knowledge on implementing these strategies to enhance your development workflow, improve collaboration, and accelerate your software delivery.
+
+## Session Resources

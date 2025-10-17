@@ -1,11 +1,6 @@
-# KUB405 | Amazon EKS as Data Platform for Analytics
-As running analytics workloads on Amazon EKS continues to rise, data engineers need self-service tools to create infrastructure for running analytics jobs. This session offers practical insights into how leading organizations are modernizing their data platforms, transitioning from traditional infrastructure as code pipelines to infrastructure as Kubernetes APIs. Using open source technologies like AWS Controllers for Kubernetes (ACK), data platform teams can help data engineers create on-demand namespaces and clusters fully equipped to run analytics jobs, thereby streamlining their workflow. 
+# CNS328 | Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs 
+
+Learn how to deploy and operate large language models (LLMs) on Amazon EKS in this practical workshop. You will set up NVIDIA GPU support for inference using Mistral-7B, implement efficient model serving with vLLM's PagedAttention, and scale distributed workloads using Ray Serve. Experience high-performance model storage with FSx for Lustre while implementing comprehensive observability using NVIDIA DCGM and Amazon Managed Service for Prometheus and Grafana to monitor both infrastructure and model performance. You'll discover how Amazon EKS simplifies running LLM workloads at scale. Ideal for ML Engineers and DevOps professionals with basic Kubernetes knowledge, looking to operationalize LLMs.
 
 ## Session Resources 
-[YouTube Recording](https://youtu.be/AAwa5gc1XNA?si=NSYxKFZQoE5NrLMK) 
 
-[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB405_Amazon-EKS-as-data-platform-for-analytics.pdf)
-
-
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

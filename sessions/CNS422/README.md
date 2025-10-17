@@ -1,8 +1,6 @@
-# KUB319 | Securing and Optimizing Your Software Supply Chain with Amazon ECR
-Raise the bar on your software supply chain security with AWS. This chalk talk session discusses DevOps security best-practices, threat detection and incident response in a container world, and how to leverage Amazon ECR, Amazon GuardDuty, Amazon Inspector, and other security services to protect your Amazon EKS workloads throughout your software development lifecycle. Discover how to ensure CVE patching while optimizing storage to accelerate image delivery via seamless integration with open source tools for publishing and deploying containerized workloads at scale. Attendees learn how to efficiently streamline software supply chains while mitigating risks. 
+# CNS422 | Modernize containers for AI agents using AgentCore Gateway 
+
+In this session, learn how to transform your existing containerized applications into powerful components of modern AI-powered workflows. We'll demonstrate how AgentCore Gateway acts as a bridge, enabling your Amazon EKS-based microservices to seamlessly interact with AI agents without requiring substantial refactoring or rebuilding. Through practical examples and a live demonstration, we'll explore a key modernization pattern that allows organizations to leverage their existing container investments while participating in the emerging landscape of agentic systems. You'll see firsthand how AgentCore Gateway can expose your microservice interfaces, making them instantly accessible to AI agents and enabling participation in complex, automated workflows.
 
 ## Session Resources 
-[Slides](https://reinvent.awsevents.com/content/dam/reinvent/2024/slides/kub/KUB319_Securing-and-optimizing-your-software-supply-chain-with-Amazon-ECR.pdf) 
 
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)

@@ -1,23 +1,7 @@
-# KUB308 | IDP Fast Track: Racing to Deploy with CNOE for Enterprise DevOps
+# CNS207 | Accelerate container migrations with Amazon EKS Auto Mode
 
-Rev up your enterprise DevOps strategy in this internal developer platform (IDP) fast-track workshop, powered by the Cloud Native Operational Excellence (CNOE) initiative. Accelerate deployment of an IDP using the CNOE stack, build resilient CI/CD pipelines, and achieve heightened observability through golden paths. Whether you're starting from scratch or scaling up, join us for practical insights and hands-on experience to drive your enterprise DevOps forward at high speed. You must bring your laptop to participate.
+As organizations migrate containerized workloads, they often face operational challenges and disruptions. Amazon EKS Auto Mode simplifies this transition, addressing common hurdles when moving to Amazon EKS. This session demonstrates how Auto Mode streamlines the shift from traditional environments or alternative orchestration solutions. Through practical examples, learn how Amazon EKS Auto Mode automates cluster provisioning, scaling, and management, enabling your team to seamlessly migrate applications rather than be tied down by infrastructure operations. Discover how to leverage these capabilities to accelerate your container migration initiatives, reduce operational overhead, and achieve a smooth transition to Amazon EKS without disrupting existing workloads.
 
-## Learnings:
+## Session Resources
 
-* Gain understanding of how to bring different open source technologies together to implement practices that CNOE promotes:
 
-  - Backstage
-  - Argo Workflows
-  - Argo Events
-  - Keycloak
-  - ArgoCD
-  - Gitea
-
-## Resources:
-
-- [Re:Invent KUB308 Sessions](https://registration.awsevents.com/flow/awsevents/reinvent24/sessioncatalog/page/page?search=KUB308)
-- [Workshop Link](https://catalog.workshops.aws/cnoe-oss/en-US)
-- [Workshop source code](https://github.com/aws-samples/reinvent-kub308-cnoe)
-- [CNOE project](https://cnoe.io/)
-## Request an EKS Workshop
-[AWS Guided EKS Workshop](https://pages.awscloud.com/NAMER-other-PT-eks-workshop-2024-reg.html?trk=93273282-cba3-45ac-932f-841b45264eee&sc_channel=el)
