@@ -62,4 +62,6 @@ This repository contains slides, demos, and other assets for the Kubernetes (KUB
 - [CNS301 - Accelerate platform engineering on Amazon EKS] 
 - [CNS322 - Running compute efficient workloads on Amazon EKS Auto Mode] 
 - [CNS328 - Paper to production: Hosting LLMs on Amazon EKS using NVIDIA GPUs]
-- [CNS410 - Optimize analytics workloads on Amazon EKS for performance and cost]
+- [CNS410 - Optimize analytics workloads on Amazon EKS for performance and cost] 
+
+Looking for re:Invent 2024 session resources? Check out Link
